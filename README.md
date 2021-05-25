@@ -17,7 +17,7 @@
 10. Capped number of toasts that any App can have/show in a given time
 11. Picture-in-picture mode new API to animate transition
 12. Blur Content can be used on any view, windowContent or other content
-13. Ripple effect improved to Stacked Effect enabled by default
+13. Sparkle ripple animation by default when you tap on any view
 14. New Edge Effect - Replaced Glow with Stretch
 15. New image format - AVIF - better quality, lesser size
 16. Media type support fallback
